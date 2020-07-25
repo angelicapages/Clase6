@@ -1,0 +1,30 @@
+.Primeraclase {
+    color: salmon;
+    background-color: cornflowerblue;
+ }
+ .Segundaclase  {
+     color: #d2691e;
+     background-color: firebrick;
+     display: inline-block;
+     padding: 34px;
+     max-resolution: 23px;
+     border:2px solid blue
+  }
+
+  .clasebebe  { 
+color: greenyellow;
+background-color: hotpink;
+display: inline-block;
+
+  }
+
+.dos  {
+    color: slateblue;
+    background-color: tomato;
+    display: inline-block;
+}
+
+.entorno  { 
+    color: silver;
+    text-align: center;
+}

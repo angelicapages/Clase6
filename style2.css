@@ -1,8 +1,10 @@
 .principal {
-    display: inline-block;
-    box-sizing: border-box;
-  text-align: center;
-}
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+  }
 
 .primera {
 color: #2e2e31;
@@ -13,13 +15,11 @@ color: #2e2e31;
   width: 260px;
   height: 260px;
   margin: 10px;
-  display: inline-block;
-  box-sizing: border-box
+  text-align: center;
 
 }
 
 .imagenes {
 width: 130px;
 height:130px ;
-
 }
